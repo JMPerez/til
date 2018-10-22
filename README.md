@@ -2,7 +2,7 @@ This repo helps me keeping track of some resources I read so I can find them aft
 
 ## 2018-10-22
 
-- I'm cleaning up my laptop. I didn't want to delete some videos about web performance experiments and explorations so I decided to upload them [to Youtube](https://www.youtube.com/channel/UCWOAK2KnodBRd8LYnUNW35g). A few short videos related with some posts I have written. Someone might find them interesting.
+- I'm cleaning up my laptop. I didn't want to delete some videos about web performance experiments and explorations so I decided to upload them [to Youtube](https://www.youtube.com/channel/UCWOAK2KnodBRd8LYnUNW35g). A few short videos related with some posts I have written. Someone might find them interesting. Also, it's surprising the amount of stuff I can accumulate on a computer I have used for 3 years.
 
 ## 2018-10-21
 
