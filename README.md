@@ -1,5 +1,9 @@
 This repo helps me keeping track of some resources I read so I can find them afterwards. Also it gives me a feeling of accomplishment.
 
+## 2018-10-22
+
+- I'm cleaning up my laptop. I didn't want to delete some videos about web performance experiments and explorations so I decided to upload them [to Youtube](https://www.youtube.com/channel/UCWOAK2KnodBRd8LYnUNW35g). A few short videos related with some posts I have written. Someone might find them interesting.
+
 ## 2018-10-21
 
 - Finished reading "It doesn't have to be crazy at work". I'm an awful reader. This might be the first book I finished in 14 years.
