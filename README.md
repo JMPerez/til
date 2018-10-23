@@ -2,6 +2,7 @@ This repo helps me keeping track of some resources I read so I can find them aft
 
 ## 2018-10-23
 - I read [Hard Costs of Third-Party Scripts](https://css-tricks.com/hard-costs-of-third-party-scripts/) and the resources linked from that post on CSS Tricks. It always feels good when developers flag the issues with third-party scripts. Unfortunately it's difficult to convince other parts of the organization aboy why this should be in the radar.
+- I listened [Episode 21: Web Infrastructure at Spotify with Jason Palmer](https://www.sitepen.com/blog/2018/10/19/episode-21-web-infrastructure-at-spotify-with-jason-palmer/). As a web developer working at Spotify I'm so grateful of the work that the Web Infra team is doing. It shows how to establish recommendations and sensible defaults supported by the infra team, without strong enforcement. This is the best thing I have ever seen happening for web development at Spotify. 
 
 ## 2018-10-22
 
