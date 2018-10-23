@@ -1,5 +1,8 @@
 This repo helps me keeping track of some resources I read so I can find them afterwards. Also it gives me a feeling of accomplishment.
 
+## 2018-10-23
+- I read [Hard Costs of Third-Party Scripts](https://css-tricks.com/hard-costs-of-third-party-scripts/) and the resources linked from that post on CSS Tricks. It always feels good when developers flag the issues with third-party scripts. Unfortunately it's difficult to convince other parts of the organization aboy why this should be in the radar.
+
 ## 2018-10-22
 
 - I'm cleaning up my laptop. I didn't want to delete some videos about web performance experiments and explorations so I decided to upload them [to Youtube](https://www.youtube.com/channel/UCWOAK2KnodBRd8LYnUNW35g). A few short videos related with some posts I have written. Someone might find them interesting. Also, it's surprising the amount of stuff I can accumulate on a computer I have used for 3 years.
