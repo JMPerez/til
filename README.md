@@ -2,7 +2,7 @@ This repo helps me keeping track of some resources I read so I can find them aft
 
 ## 2018-10-26
 - I watched [Tim Kadlec's talk where he does a performance audit of a website](https://www.smashingmagazine.com/2018/10/smashingconf-toronto-a11y-performance-audits/). I also want to watch some more [videos from SmashingConf Toronto 2018](https://vimeo.com/album/5451191) if time allows for it.
-- I also watched [Peter Hedenskog's talk about Performance at Wikimedia](https://www.youtube.com/watch?v=8zjA8nZXCj4). I recommend you watch it if you are into web performance and want to learn more about the work they do at Wikimedia.
+- I also watched [Peter Hedenskog's talk about Performance at Wikimedia](https://www.youtube.com/watch?v=8zjA8nZXCj4). I recommend you watch it if you are into web performance and want to learn more about the work they measure perf at Wikimedia using synthetic testing tools.
 
 ## 2018-10-25
 - I started watching [the live streaming of React Conf](https://www.youtube.com/watch?v=kz3nVya45uQ). Didn't get to watch the whole thing and today when I tried to continue watching it I got an "This video contains content from WebTVAsia (Music), who has blocked it on copyright grounds." error. The few things I saw were really good. I like the idea of _hooks_ to encapsulate the logic that today gets spread across the different lifecycle methods. Also, when I grow up I want to be like Dan Abramov. I admire how he explains every hairy concept in such a way that everyone can understand, and he is always supportive solving questions from the community.
