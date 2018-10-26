@@ -1,5 +1,12 @@
 This repo helps me keeping track of some resources I read so I can find them afterwards. Also it gives me a feeling of accomplishment.
 
+## 2018-10-26
+- I watched [Tim Kadlec's talk where he does a performance audit of a website](https://www.smashingmagazine.com/2018/10/smashingconf-toronto-a11y-performance-audits/). I also want to watch some more [videos from SmashingConf Toronto 2018](https://vimeo.com/album/5451191) if time allows for it.
+
+## 2018-10-25
+- I started watching [the live streaming of React Conf](https://www.youtube.com/watch?v=kz3nVya45uQ). Didn't get to watch the whole thing and today when I tried to continue watching it I got an "This video contains content from WebTVAsia (Music), who has blocked it on copyright grounds." error. The few things I saw were really good. I like the idea of _hooks_ to encapsulate the logic that today gets spread across the different lifecycle methods. Also, when I grow up I want to be like Dan Abramov. I admire how he explains every hairy concept in such a way that everyone can understand, and he is always supportive solving questions from the community.
+- I hacked a bit on [Spotify Dedup](https://github.com/JMPerez/spotify-dedup) adding a few tests. The Spotify Web API is a good piece of technology but when you make thousands of requests against it chances are that you run into some issues. A request will fail now and then, the user connectivity might get lost (especially true for a potential long task like fetching all your songs from your library), so a good retry and recover mechanism is needed. I plan to make changes to it whenever I have some time.
+
 ## 2018-10-23
 - I read [Hard Costs of Third-Party Scripts](https://css-tricks.com/hard-costs-of-third-party-scripts/) and the resources linked from that post on CSS Tricks. It always feels good when developers flag the issues with third-party scripts. Unfortunately it's difficult to convince other parts of the organization aboy why this should be in the radar.
 - I listened [Episode 21: Web Infrastructure at Spotify with Jason Palmer](https://www.sitepen.com/blog/2018/10/19/episode-21-web-infrastructure-at-spotify-with-jason-palmer/). As a web developer working at Spotify I'm so grateful of the work that the Web Infra team is doing. It shows how to establish recommendations and sensible defaults supported by the infra team, without strong enforcement. This is the best thing I have ever seen happening for web development at Spotify. 
