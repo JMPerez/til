@@ -1,5 +1,8 @@
 This repo helps me keeping track of some resources I read so I can find them afterwards. Also it gives me a feeling of accomplishment.
 
+## 2018-11-02
+- Finished writing [a short post about Progressive Web Apps](https://jmperezperez.com/shades-of-pwa/) and some use cases where it makes sense to use it.
+
 ## 2018-10-26
 - I watched [Tim Kadlec's talk where he does a performance audit of a website](https://www.smashingmagazine.com/2018/10/smashingconf-toronto-a11y-performance-audits/). I also want to watch some more [videos from SmashingConf Toronto 2018](https://vimeo.com/album/5451191) if time allows for it.
 - I also watched [Peter Hedenskog's talk about Performance at Wikimedia](https://www.youtube.com/watch?v=8zjA8nZXCj4). I recommend you watch it if you are into web performance and want to learn more about the work they measure perf at Wikimedia using synthetic testing tools.
