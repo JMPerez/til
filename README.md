@@ -3,6 +3,9 @@ This repo helps me keeping track of some resources I read so I can find them aft
 ## 2018-11-12
 - Learned about targetting dark-theme mode using CSS thanks to [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode). Then I created a dark theme for my site creating a few extra CSS rules.
 
+![Light and Dark modes](https://raw.githubusercontent.com/jmperez/til/master/light-dark.jpg)
+
+Only supported on Safari Technology Preview for now.
 
 ## 2018-11-02
 - Finished writing [a short post about Progressive Web Apps](https://jmperezperez.com/shades-of-pwa/) and some use cases where it makes sense to use it.
