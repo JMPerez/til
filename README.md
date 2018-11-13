@@ -1,5 +1,8 @@
 This repo helps me keeping track of some resources I read so I can find them afterwards. Also it gives me a feeling of accomplishment.
 
+## 2018-11-13
+- Firefox will support webp very soon. There is a way to enable it already on Nightly [(see tweet)](https://twitter.com/jmperezperez/status/1062336015996780545).
+
 ## 2018-11-12
 - Learned about targetting dark-theme mode using CSS thanks to [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode). Then I created a dark theme for my site creating a few extra CSS rules.
 
