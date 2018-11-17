@@ -1,5 +1,15 @@
 This repo helps me keeping track of some resources I read so I can find them afterwards. Also it gives me a feeling of accomplishment.
 
+## 2018-11-17
+- I watched [Zach Leatherman's talk about "The Five Whys of Web Font Loading Performance"](https://www.youtube.com/watch?v=FbguhX3n3Uc). Highly recommendable to understand the performance impact of custom web fonts. I really like that he took the default Wordpress theme, which loaded quite OK out of the box, and started applying technique after technique until he got a great loading experience.
+
+## 2018-11-16
+- I started compiling [a list of web performance experts on Twitter](https://twitter.com/jmperezperez/lists/web-perf). I'm not very good at organising my Twitter though I thought it could be useful for me when I'm in the mood of reading about webperf news or for some other Twitter users to find about relevant people in this field.
+- I didn't know about [workbox](https://github.com/GoogleChrome/workbox), watched [Workbox: Flexible PWA Libraries](https://www.youtube.com/watch?v=DtuJ55tmjps) and thought something like [Pinterest's service worker](https://www.pinterest.com/sw.js) made a lot of sense for Spotify's web player. We release several times a day, which makes us invalidate large CSS and JS bundles. What if we could serve a stale version with a shell, JS and CSS assets served from the service worker cache? That way users would get an immediate experience every time they land on the web player. Also, I love how Workbox makes it easy to set an expiration date on the assets and you don't need to track this. Also, it allows to precache a set of assets so we wouldn't run into inconsistency issues if we were to do bundle splitting and cache JS and CSS as they are requested.
+
+## 2018-11-14
+- I read [Harry Roberts' "Identifying, Auditing, and Discussing Third Parties"](https://csswizardry.com/2018/05/identifying-auditing-discussing-third-parties/) and I did a quick check on Spotify's web player to find out how 3rd party scripts might be affecting it. Given that we are dealing with a SPA that is not server-side rendered, every 3rd party request dispatched early in the waterfall is competing with other critical assets like JS, CSS and calls to REST APIs. A possible workaround is delaying these 3rd party scripts and running them when the web app is bootstrapped.
+
 ## 2018-11-13
 - Firefox will support webp very soon. There is a way to enable it already on Nightly [(see tweet)](https://twitter.com/jmperezperez/status/1062336015996780545).
 
