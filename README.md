@@ -2,6 +2,7 @@ This repo helps me keeping track of some resources I read so I can find them aft
 
 ## 2018-11-17
 - I watched [Zach Leatherman's talk about "The Five Whys of Web Font Loading Performance"](https://www.youtube.com/watch?v=FbguhX3n3Uc). Highly recommendable to understand the performance impact of custom web fonts. I really like that he took the default Wordpress theme, which loaded quite OK out of the box, and started applying technique after technique until he got a great loading experience.
+- I hacked on [Spotify Deduplicator](https://github.com/JMPerez/spotify-dedup). I had made some recent changes that had affected some functionality and now it's fixed.
 
 ## 2018-11-16
 - I started compiling [a list of web performance experts on Twitter](https://twitter.com/jmperezperez/lists/web-perf). I'm not very good at organising my Twitter though I thought it could be useful for me when I'm in the mood of reading about webperf news or for some other Twitter users to find about relevant people in this field.
